@@ -17,3 +17,4 @@ A port of privkit beacon object files for havoc. The original bof files can be f
   token                     Check for token privileges.
   unquoted                  Check unquoted service paths.
 ```
+![image](https://github.com/p4p1/havoc-privkit/assets/19672114/f19a1a53-b9a5-4507-9f7e-f6e5618659d7)
