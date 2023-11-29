@@ -27,3 +27,4 @@ $ git clone --recurse-submodules --remote-submodules https://github.com/p4p1/hav
 ```
 Load the privkit.py script inside of the havoc framework through the graphical
 UI.
+![image](https://github.com/p4p1/havoc-privkit/assets/19672114/77016e35-a903-43bf-9f73-f6f6c8e9bb69)
