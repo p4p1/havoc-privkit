@@ -6,6 +6,7 @@
 # Description:
 
 from havoc import Demon, RegisterCommand, RegisterModule
+import os
 
 def alwaysinstallelevated( demonID, *param ):
     TaskID : str = None
