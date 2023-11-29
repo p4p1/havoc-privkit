@@ -1,0 +1,3 @@
+[submodule "PrivKit"]
+	path = PrivKit/
+	url = https://github.com/mertdas/PrivKit
